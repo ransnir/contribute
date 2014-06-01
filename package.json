@@ -1,0 +1,37 @@
+{
+    "author": {
+        "name": "Ran Snir",
+        "email": "ransnir@gmail.com",
+        "url": "ransnir.github.io"
+    },
+    "name": "contribute",
+    "description": "Contribute user actions to Google Analytics Account",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/ransnir/contribute.git"
+    },
+    "main": "lib/main.js",
+    "scripts": {
+        "test": "node tests/*.js"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "keywords": [
+        "google analytics",
+        "analytics",
+        "Contribute",
+        "Contribution"
+    ],
+    "dependencies": {
+        "nodealytics": "~0.0.6"
+    },
+    "contributors": [
+        "Ran Snir (https://github.com/ransnir)"
+    ],
+    "optionalDependencies": {},
+    "license": "MIT",
+    "_from": "contribute@~0.0.1",
+    "readmeFilename": "Readme.md"
+}
