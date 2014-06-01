@@ -1,9 +1,5 @@
 {
-    "author": {
-        "name": "Ran Snir",
-        "email": "ransnir@gmail.com",
-        "url": "ransnir.github.io"
-    },
+    "author": "Ran Snir <ransnir@gmail.com>",
     "name": "contribute",
     "description": "Contribute user actions to Google Analytics Account",
     "version": "0.0.1",
