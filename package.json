@@ -1,8 +1,8 @@
 {
   "author": "Ran Snir <ransnir@gmail.com>",
   "name": "contribute",
-  "description": "Contribute user actions to Google Analytics Account",
-  "version": "0.0.3",
+  "description": "Contribute user actions to Google Analytics Account - works with proxy",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "git://github.com/ransnir/contribute.git"
@@ -18,7 +18,8 @@
     "google analytics",
     "analytics",
     "Contribute",
-    "Contribution"
+    "Contribution",
+    "proxy"
   ],
   "dependencies": {
     "nodealytics": "~0.0.6"
