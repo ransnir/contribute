@@ -9,3 +9,5 @@ var config = {
 contribute.init(config);
 
 contribute.trackEvent("npm", "npm", "npm");
+
+contribute.trackPage("pagetitle", "this/is/page");
