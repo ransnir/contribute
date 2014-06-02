@@ -6,6 +6,8 @@
 
 ## Usage
 
+    var contribute = require("contribute");
+
     var config = {
         googleId : 'UA-xxxxxxxx-1',
         googleSite : 'xxxxxxxx.github.io'
@@ -14,3 +16,5 @@
     contribute.init(config);
 
     contribute.trackEvent("category", "action", "label");
+
+    contribute.trackPage("pagetitle", "this/is/page");
